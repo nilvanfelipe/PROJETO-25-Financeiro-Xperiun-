@@ -10,3 +10,5 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+# Template file
+\#*Template*
