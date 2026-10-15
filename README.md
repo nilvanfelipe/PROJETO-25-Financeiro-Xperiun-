@@ -175,6 +175,7 @@ PROJETO 25 - Financeiro(Xperiun)/
 - [ ] Documentar regras de negócio específicas no CLAUDE.md
 
 ---
+<img width="1194" height="684" alt="image" src="https://github.com/user-attachments/assets/aa643a5b-83a3-4a11-a797-7e973b2d83f9" />
 
 ## Contato
 
